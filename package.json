@@ -1,0 +1,27 @@
+{
+  "name": "react-hooks-phase-2-project",
+  "version": "1.0.0",
+  "description": "quote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layalEsna/react-hooks-phase-2-project.git"
+  },
+  "keywords": [
+    "quote",
+    "frontend",
+    "react",
+    "hooks",
+    "web-app",
+    "ui-components"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/layalEsna/react-hooks-phase-2-project/issues"
+  },
+  "homepage": "https://github.com/layalEsna/react-hooks-phase-2-project#readme"
+}
